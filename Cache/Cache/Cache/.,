@@ -276,6 +276,6 @@ def OYO():
 		emil(u+" ["+m+"x"+u+"]"+k+" OYO Limit..")
 
 if Bismillahirohmanirrohim == "Aaammiin":
-#	sistem("xdg-open https://cararegistrasi.com/vxeN9T0zKha")
+	sistem("xdg-open https://cararegistrasi.com/vxeN9T0zKha")
 	sistem("git pull")
 	menu()
